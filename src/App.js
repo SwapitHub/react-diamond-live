@@ -24,7 +24,7 @@ function App() {
   const [loadingCart, setLoadingCart] = useState(false);
   const [toggle, setToggle] = useState(1);
   const baseUrl =
-    "http://ec2-3-18-62-57.us-east-2.compute.amazonaws.com/admin/api/v1";
+    "https://ec2-3-18-62-57.us-east-2.compute.amazonaws.com/admin/api/v1";
   const imgBaseUrl =
     "https://assets.rocksama.com/products/images";
 
